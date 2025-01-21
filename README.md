@@ -12,6 +12,5 @@ Este foi o primeiro repositório remoto do curso de ruby da OneBiteCode
 - Git
 - GitHub
 - SSH
-- Teste
 
 Confira meu perfil em [SergioCaminitti](https://github.com/SergioCaminitti)
